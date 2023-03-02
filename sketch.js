@@ -1,7 +1,7 @@
 let font;
 let clickfx;
 
-let rockets = 1999999999999999;
+let rockets = 0;
 let rps = 0;
 
 let multiplier = 1;
